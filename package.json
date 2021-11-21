@@ -4,7 +4,7 @@
   "description": "Configure MFA for an AWS IAM account",
   "main": "dist/index.js",
   "type": "module",
-  "bin": "dist/index.ts",
+  "bin": "dist/index.js",
   "scripts": {
     "prepare": "tsc"
   },
