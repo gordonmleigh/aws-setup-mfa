@@ -9,6 +9,7 @@
     "prepare": "tsc"
   },
   "author": "Gordon Leigh",
+  "repository": "https://github.com/gordonmleigh/aws-setup-mfa",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-iam": "^3.42.0",

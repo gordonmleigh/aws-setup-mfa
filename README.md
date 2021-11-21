@@ -2,7 +2,13 @@
 
 This is a tool to easily set up MFA for an AWS IAM account. It support getting credentials from [aws-vault](https://github.com/99designs/aws-vault) or elsewhere.
 
-## Usage
+## Installation
+
+```bash
+npm i -g aws-setup-mfa
+```
+
+## Usage
 
 To use aws-vault automatically:
 
