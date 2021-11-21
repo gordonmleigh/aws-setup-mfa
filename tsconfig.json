@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "outDir": "dist",
+    "target": "ES2019"
+  },
+  "include": ["."],
+  "exclude": ["dist/", "node_modules/"]
+}
